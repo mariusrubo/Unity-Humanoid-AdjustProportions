@@ -13,3 +13,4 @@ are however still recommended.
 characters made with Autodesk Character Generator. For characters made with other systems, the script may need adjustments. 
 * The script works well with Inverse Kinematics systems that operate in the LateUpdate()-Loop (like e.g. Final IK), but does not
 work with Unity's native IK system. 
+![alt tag](https://github.com/mariusrubo/Unity-Humanoid-AdjustProportions/blob/master/UnityMeshDeform.gif)

@@ -2,9 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// ToDO:
-// 3: Großes Thema: Automatische Kalibrierung anhand von Bewegungen mit HTC Vive
-
 public class MeshDeformation : MonoBehaviour {
 
     public bool keepChangingProportions;
